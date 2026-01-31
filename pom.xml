@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>nature food</finalName>
+    <finalName>naturefood</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
